@@ -1,0 +1,15 @@
+body{
+  font-family: helvetica, sans-serif;
+  background: #333;
+  color: white;
+}
+
+aside{
+  float: right;
+  background: #fff;
+  color: #000;
+}
+
+.main{
+  float: left;
+}
